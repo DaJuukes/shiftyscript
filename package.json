@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "shifty": "./src/index.js"
+  },
+  "dependencies": {
+    "nexe": "^2.0.0-rc.28"
+  }
 }
